@@ -1,0 +1,7 @@
+Homework 1: EECS263 Cloud Computing 
+
+1. What are the pros and cons of Cloud Computing 
+
+2. What is a sticky session? 
+
+3. What is the difference between full and para-virtualization? 
